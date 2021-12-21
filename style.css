@@ -237,12 +237,12 @@ footer {
     width:100%
 }
 
-/* @media screen and (max-width: 700px) {
+@media screen and (max-width: 700px) {
     .content {
         background-color: lightblue;
     }
     }
-    @media screen and (max-width: 700px) {
+@media screen and (max-width: 700px) {
     header {
         position: static;
         flex-direction: column;
@@ -253,7 +253,7 @@ footer {
     }
     }
     
-    @media screen and (max-width: 700px) {
+@media screen and (max-width: 700px) {
     #profile-container {
         padding-top: 32px;
         flex-direction: column;
@@ -264,7 +264,7 @@ footer {
         }
     }
     
-    @media screen and (max-width: 700px) {
+@media screen and (max-width: 700px) {
     .portfolio-card {
         flex-direction: column;
         align-items: flex-start;
@@ -279,8 +279,8 @@ footer {
         }
      }
     
-    @media screen and (max-width: 550px) {
-    
+  @media screen and (max-width: 700px) {
+   
     .skill-card {
         flex: 0 1 47%;
     }
